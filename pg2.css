@@ -146,7 +146,7 @@ a {
   .ins:hover{
     transform: scale(1.1);
   }
-  h1,
+  
   H2 {
       text-align: center;
       color: #F0F8FF;
@@ -157,10 +157,8 @@ a {
       font-size: 25px;
   }
 
-  h1 {
-      font-size: 50PX;
-      background-color: rgb(28, 17, 124);
-  }
+
+ 
 
   h2 {
       font-size: 35px;
