@@ -3,44 +3,12 @@ h1 {
   font-size: 40px;
   color: #F0F8FF;
 }
-* {
-	box-sizing: border-box;
-}
+
 body {
 	font-family: 'Montserrat', sans-serif;
-	line-height: 1.6;
-	margin: 0;
-	min-height: 100vh;
-}
-ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
+	background-color: rgb(104, 13, 156);
 }
 
-
-h2,
-h3,
-a {
-	color: #34495e;
-}
-
-a {
-	text-decoration: none;
-}
-
-
-
-.logo {
-	margin: 0;
-	font-size: 1.45em;
-}
-
-.main-nav {
-	margin-top: 5px;
-
-}
-.logo a,
 .menu {
     background-color: #8449e4;
     top: 0%;
