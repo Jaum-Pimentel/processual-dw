@@ -118,7 +118,9 @@ td{
 
 table {
   border-radius: 3%;
-  box-shadow: 20px 20px 22px rgba(0, 0, 0, 0.404);
+   -webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
   text-align: center;
   background-color: #7c90be;
   width:900px; /*largura do formulario */
