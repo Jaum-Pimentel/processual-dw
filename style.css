@@ -6,7 +6,7 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
-  background-color: #ffe600;
+  background-color: #34495e;
   display:flex; align-content:center;
 }
 
@@ -14,7 +14,7 @@ body {
 h1 {
   color: #ffffff;
   text-align: center;
-  font-family: 'Vibur', cursive;
+  font-family: 'Montserrat', sans-serif;
   font-size: 50px;
 }
 
@@ -23,7 +23,7 @@ h1 {
   box-shadow: 20px 20px 8px rgba(0, 0, 0, 0.2);
   width: 360px; /*largura do formulario */
   padding: 15px 30px;
-  background: #8001a7;
+  background: #718daa;
   margin: auto; /* deixa o formulario no meio */
   position: absolute;  /*posição centralizada*/
   left: 0; 
@@ -53,7 +53,7 @@ h1 {
 }
 
 .log-btn:hover {
-  background-color: #cf1846;
+  background-color: #287ae6c9;
   transform: scale(1.1);
 }
 label{
